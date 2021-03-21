@@ -61,4 +61,4 @@ I'm open-source development enthusiast.
 
 ### Interesting stats
 
-[![Rohan's stats](https://github-readme-stats.vercel.app/api?username=BusinessL&show_icons=true]
+[![Rohan's stats](https://github-readme-stats.vercel.app/api?username=BusinessL&show_icons=true)]
