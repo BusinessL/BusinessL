@@ -18,7 +18,8 @@ Here is some of the basic info:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 
 ## About me 
 I'm a software development engineer. I like to work with PHP, Javascript. I love Linux Kernel based OSs such as Ubuntu and CentOS.
