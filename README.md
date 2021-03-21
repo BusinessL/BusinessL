@@ -4,13 +4,6 @@ Here is some of the basic info:
 
 - 🔭 I’m currently working on ... PHP, Sql 
 - 🌱 I’m currently learning ... Golang
-- 👯 I’m looking to collaborate on ... Java Desktop Applications
-- 🤔 I’m looking for help with ... Rust
-- 💬 Ask me about ... Anything
-- 📫 How to reach me ... rohan.rohankumar.kumar51@gmail.com / +91-7093123447
-- ⚡ Fun fact: ... The Best is yet to come..!
-
-
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -68,4 +61,4 @@ I'm open-source development enthusiast.
 
 ### Interesting stats
 
-[![Rohan's stats](https://github-readme-stats.vercel.app/api?username=rohankumar997&show_icons=true)]
+[![Rohan's stats](https://github-readme-stats.vercel.app/api?username=BusinessL&show_icons=true
