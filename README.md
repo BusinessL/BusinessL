@@ -2,8 +2,8 @@
 
 Here is some of the basic info:
 
-- 🔭 I’m currently working on ... PHP 
-- 🌱 I’m currently learning ... Golang
+- 🔭 I’m currently working on ... PHP ... JAVA ... Golang
+
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
